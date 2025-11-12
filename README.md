@@ -59,15 +59,8 @@ mini-extra config set LITELLM_MODEL_REGISTRY_PATH "/path/to/your/model/registry.
 
 ### 1. 실행 예제
 
-```bash
-mini-extra swebench     --config /home/ysy/research/code_agent/mini-swe-agent/src/minisweagent/config/mini.yaml     --subset verified     --split test     --output ./output     --workers 4
-```
+- `run_swe.sh` 참고
 
-### 2. 평가 예제
-
-```bash
-python -m swebench.harness.run_evaluation     --dataset_name princeton-nlp/SWE-bench_Verified     --predictions_path output/preds.json     --max_workers 4     --run_id swebench_eval
-```
 
 ---
 
