@@ -1,17 +1,4 @@
-# MINI-SWE-AGENT
 
-**bash만을 사용하여 레포지토리 코드 수정을 진행할 수 있는 에이전트 프레임워크**
-
-> 참고: [PyTorch Korea Discussion - MINI-SWE-AGENT 100% GitHub AI feat. SWE-Agent](https://discuss.pytorch.kr/t/mini-swe-agent-100-github-ai-feat-swe-agent/7351)
-
----
-
-## 🧩 개요
-
-**MINI-SWE-AGENT**는 단순한 bash 환경만으로 레포지토리 코드를 자동으로 수정할 수 있도록 설계된 경량형 SWE-Agent 프레임워크입니다.  
-AI 코드 수정 및 평가 자동화를 위해 **SWE-Agent**와 함께 사용할 수 있습니다.
-
----
 
 ## ⚙️ 설치 가이드
 
