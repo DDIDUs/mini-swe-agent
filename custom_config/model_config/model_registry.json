@@ -1,0 +1,12 @@
+{
+  "Qwen/Qwen3-Coder-30B-A3B-Instruct": {
+    "litellm_provider": "hosted_vllm",
+    "max_input_tokens": 129024,
+    "max_output_tokens": 16384,
+    "max_tokens": 131072,
+    "mode": "chat",
+    "supports_function_calling": true,
+    "supports_reasoning": true,
+    "supports_tool_choice": true
+  }
+}
