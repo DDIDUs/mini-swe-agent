@@ -55,7 +55,7 @@ mini-extra config set LITELLM_MODEL_REGISTRY_PATH "/path/to/your/model/registry.
 
 ---
 
-## 🚀 실행 및 평가
+## 🚀 실행
 
 ### 1. 실행 예제
 
